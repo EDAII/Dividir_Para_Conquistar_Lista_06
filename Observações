@@ -1,0 +1,4 @@
+1)Compile o programa : g++ dividir_para_conquistar.cpp -o executavel -std=c++11
+2)Rode o seguinte comando no terminal : 
+	./executavel
+3)Siga as instruções do programa.
